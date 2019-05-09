@@ -1,0 +1,10 @@
+services\ClientService.class
+entities\Client.class
+entities\Pret.class
+services\AgenceRemote.class
+services\AgenceService.class
+services\PretServiceRemote.class
+entities\Agence.class
+services\ClientServiceRemote.class
+entities\TypePret.class
+services\PretService.class
